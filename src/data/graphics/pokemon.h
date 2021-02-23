@@ -40,12 +40,12 @@ const u32 gMonShinyPalette_Charizard[] = INCBIN_U32("graphics/pokemon/charizard/
 const u8 gMonIcon_Charizard[] = INCBIN_U8("graphics/pokemon/charizard/icon.4bpp");
 const u8 gMonFootprint_Charizard[] = INCBIN_U8("graphics/pokemon/charizard/footprint.1bpp");
 
-const u32 gMonStillFrontPic_Squirtle[] = INCBIN_U32("graphics/pokemon/squirtle/front.4bpp.lz");
-const u32 gMonPalette_Squirtle[] = INCBIN_U32("graphics/pokemon/squirtle/normal.gbapal.lz");
-const u32 gMonBackPic_Squirtle[] = INCBIN_U32("graphics/pokemon/squirtle/back.4bpp.lz");
-const u32 gMonShinyPalette_Squirtle[] = INCBIN_U32("graphics/pokemon/squirtle/shiny.gbapal.lz");
-const u8 gMonIcon_Squirtle[] = INCBIN_U8("graphics/pokemon/squirtle/icon.4bpp");
-const u8 gMonFootprint_Squirtle[] = INCBIN_U8("graphics/pokemon/squirtle/footprint.1bpp");
+const u32 gMonStillFrontPic_Alevinus[] = INCBIN_U32("graphics/pokemon/alevinus/front.4bpp.lz");
+const u32 gMonPalette_Alevinus[] = INCBIN_U32("graphics/pokemon/alevinus/normal.gbapal.lz");
+const u32 gMonBackPic_Alevinus[] = INCBIN_U32("graphics/pokemon/alevinus/back.4bpp.lz");
+const u32 gMonShinyPalette_Alevinus[] = INCBIN_U32("graphics/pokemon/alevinus/shiny.gbapal.lz");
+const u8 gMonIcon_Alevinus[] = INCBIN_U8("graphics/pokemon/alevinus/icon.4bpp");
+const u8 gMonFootprint_Alevinus[] = INCBIN_U8("graphics/pokemon/alevinus/footprint.1bpp");
 
 const u32 gMonStillFrontPic_Wartortle[] = INCBIN_U32("graphics/pokemon/wartortle/front.4bpp.lz");
 const u32 gMonPalette_Wartortle[] = INCBIN_U32("graphics/pokemon/wartortle/normal.gbapal.lz");

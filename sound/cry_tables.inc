@@ -6,7 +6,7 @@ gCryTable:: @ 869DCF4
 	cry Cry_Charmander  @ 869DD18
 	cry Cry_Charmeleon  @ 869DD24
 	cry Cry_Charizard  @ 869DD30
-	cry Cry_Squirtle  @ 869DD3C
+	cry Cry_Alevinus  @ 869DD3C
 	cry Cry_Wartortle  @ 869DD48
 	cry Cry_Blastoise  @ 869DD54
 	cry Cry_Caterpie  @ 869DD60
@@ -397,7 +397,7 @@ gCryTable2:: @ 869EF24
 	cry2 Cry_Charmander  @ 869EF48
 	cry2 Cry_Charmeleon  @ 869EF54
 	cry2 Cry_Charizard  @ 869EF60
-	cry2 Cry_Squirtle  @ 869EF6C
+	cry2 Cry_Alevinus  @ 869EF6C
 	cry2 Cry_Wartortle  @ 869EF78
 	cry2 Cry_Blastoise  @ 869EF84
 	cry2 Cry_Caterpie  @ 869EF90

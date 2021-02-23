@@ -40,11 +40,11 @@ const u8 gCharizardPokedexText[] = _(
     "flames that can melt any material. However,\n"
     "it will never torch a weaker foe.");
 
-const u8 gSquirtlePokedexText[] = _(
+const u8 gAlevinusPokedexText[] = _(
     "Its shell is not just for protection.\n"
     "Its rounded shape and the grooves on its\n"
     "surface minimize resistance in water,\n"
-    "enabling SQUIRTLE to swim at high speeds.");
+    "enabling ALEVINUS to swim at high speeds.");
 
 const u8 gWartortlePokedexText[] = _(
     "Its large tail is covered with rich, thick\n"

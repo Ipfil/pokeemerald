@@ -84,12 +84,12 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 3,
     },
 
-    [NATIONAL_DEX_SQUIRTLE] =
+    [NATIONAL_DEX_ALEVINUS] =
     {
         .categoryName = _("TINY TURTLE"),
         .height = 5,
         .weight = 90,
-        .description = gSquirtlePokedexText,
+        .description = gAlevinusPokedexText,
         .pokemonScale = 412,
         .pokemonOffset = 18,
         .trainerScale = 256,

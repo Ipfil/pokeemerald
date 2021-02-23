@@ -839,8 +839,8 @@ const struct SpriteFrameImage gObjectEventPicTable_UnusedMagnemiteDoll[] = {
     obj_frame_tiles(gObjectEventPic_UnusedMagnemiteDoll),
 };
 
-const struct SpriteFrameImage gObjectEventPicTable_UnusedSquirtleDoll[] = {
-    obj_frame_tiles(gObjectEventPic_UnusedSquirtleDoll),
+const struct SpriteFrameImage gObjectEventPicTable_UnusedAlevinusDoll[] = {
+    obj_frame_tiles(gObjectEventPic_UnusedAlevinusDoll),
 };
 
 const struct SpriteFrameImage gObjectEventPicTable_UnusedWooperDoll[] = {

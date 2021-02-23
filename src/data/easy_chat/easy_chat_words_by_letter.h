@@ -1554,7 +1554,7 @@ const u16 gEasyChatWordsByLetter_S[] = {
     EC_MOVE(SPORE),
     EC_WORD_SPORTS,
     EC_WORD_SPRING,
-    EC_POKEMON2(SQUIRTLE),
+    EC_POKEMON2(ALEVINUS),
     EC_WORD_STAGE,
     EC_POKEMON2(STANTLER),
     -1, 2, // Doubled pokemon species name

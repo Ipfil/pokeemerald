@@ -230,7 +230,7 @@ const struct BaseStats gBaseStats[] =
         .noFlip = FALSE,
     },
 
-    [SPECIES_SQUIRTLE] =
+    [SPECIES_ALEVINUS] =
     {
         .baseHP        = 44,
         .baseAttack    = 48,

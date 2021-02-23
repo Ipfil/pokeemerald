@@ -411,8 +411,8 @@ Cry_Charizard::
 	.incbin "sound/direct_sound_samples/cries/charizard.bin"
 
 	.align 2
-Cry_Squirtle::
-	.incbin "sound/direct_sound_samples/cries/squirtle.bin"
+Cry_Alevinus::
+	.incbin "sound/direct_sound_samples/cries/alevinus.bin"
 
 	.align 2
 Cry_Wartortle::
