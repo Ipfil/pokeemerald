@@ -36,7 +36,7 @@ const struct BardSound gBardSounds_Pokemon[NUM_SPECIES][6] = {
         NULL_BARD_SOUND,
         NULL_BARD_SOUND
     },
-    [SPECIES_CHARMANDER] = {
+    [SPECIES_FEUZARD] = {
         { 0x6, 0x0, 0x0, 0x0, 0x0},
         { 0x2, 0x0, 0x0, 0x0, 0x0},
         { 0x32, 0x0, 0x0, 0x0, 0x0},

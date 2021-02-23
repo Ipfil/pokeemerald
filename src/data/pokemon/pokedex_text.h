@@ -22,10 +22,10 @@ const u8 gVenusaurPokedexText[] = _(
     "sunlight. The flower's aroma soothes the\n"
     "emotions of people.");
 
-const u8 gCharmanderPokedexText[] = _(
+const u8 gFeuzardPokedexText[] = _(
     "The flame that burns at the tip of its\n"
     "tail is an indication of its emotions.\n"
-    "The flame wavers when CHARMANDER is\n"
+    "The flame wavers when FEUZARD is\n"
     "happy, and blazes when it is enraged.");
 
 const u8 gCharmeleonPokedexText[] = _(

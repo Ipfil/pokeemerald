@@ -19,12 +19,12 @@ const u32 gMonShinyPalette_Venusaur[] = INCBIN_U32("graphics/pokemon/venusaur/sh
 const u8 gMonIcon_Venusaur[] = INCBIN_U8("graphics/pokemon/venusaur/icon.4bpp");
 const u8 gMonFootprint_Venusaur[] = INCBIN_U8("graphics/pokemon/venusaur/footprint.1bpp");
 
-const u32 gMonStillFrontPic_Charmander[] = INCBIN_U32("graphics/pokemon/charmander/front.4bpp.lz");
-const u32 gMonPalette_Charmander[] = INCBIN_U32("graphics/pokemon/charmander/normal.gbapal.lz");
-const u32 gMonBackPic_Charmander[] = INCBIN_U32("graphics/pokemon/charmander/back.4bpp.lz");
-const u32 gMonShinyPalette_Charmander[] = INCBIN_U32("graphics/pokemon/charmander/shiny.gbapal.lz");
-const u8 gMonIcon_Charmander[] = INCBIN_U8("graphics/pokemon/charmander/icon.4bpp");
-const u8 gMonFootprint_Charmander[] = INCBIN_U8("graphics/pokemon/charmander/footprint.1bpp");
+const u32 gMonStillFrontPic_Feuzard[] = INCBIN_U32("graphics/pokemon/feuzard/front.4bpp.lz");
+const u32 gMonPalette_Feuzard[] = INCBIN_U32("graphics/pokemon/feuzard/normal.gbapal.lz");
+const u32 gMonBackPic_Feuzard[] = INCBIN_U32("graphics/pokemon/feuzard/back.4bpp.lz");
+const u32 gMonShinyPalette_Feuzard[] = INCBIN_U32("graphics/pokemon/feuzard/shiny.gbapal.lz");
+const u8 gMonIcon_Feuzard[] = INCBIN_U8("graphics/pokemon/feuzard/icon.4bpp");
+const u8 gMonFootprint_Feuzard[] = INCBIN_U8("graphics/pokemon/feuzard/footprint.1bpp");
 
 const u32 gMonStillFrontPic_Charmeleon[] = INCBIN_U32("graphics/pokemon/charmeleon/front.4bpp.lz");
 const u32 gMonPalette_Charmeleon[] = INCBIN_U32("graphics/pokemon/charmeleon/normal.gbapal.lz");
