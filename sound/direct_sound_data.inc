@@ -415,8 +415,8 @@ Cry_Alevinus::
 	.incbin "sound/direct_sound_samples/cries/alevinus.bin"
 
 	.align 2
-Cry_Wartortle::
-	.incbin "sound/direct_sound_samples/cries/wartortle.bin"
+Cry_Blindalvin::
+	.incbin "sound/direct_sound_samples/cries/blindalvin.bin"
 
 	.align 2
 Cry_Blastoise::

@@ -61,7 +61,7 @@ static const union AnimCmd sAnim_ALEVINUS_1[] =
     ANIMCMD_END,
 };
 
-static const union AnimCmd sAnim_WARTORTLE_1[] =
+static const union AnimCmd sAnim_BLINDALVIN_1[] =
 {
     ANIMCMD_FRAME(0, 10),
     ANIMCMD_FRAME(1, 20),
@@ -4845,9 +4845,9 @@ static const union AnimCmd *const sAnims_ALEVINUS[] ={
     sAnim_ALEVINUS_1,
 };
 
-static const union AnimCmd *const sAnims_WARTORTLE[] ={
+static const union AnimCmd *const sAnims_BLINDALVIN[] ={
     sAnim_GeneralFrame0,
-    sAnim_WARTORTLE_1,
+    sAnim_BLINDALVIN_1,
 };
 
 static const union AnimCmd *const sAnims_BLASTOISE[] ={
@@ -6958,7 +6958,7 @@ const union AnimCmd *const *const gMonFrontAnimsPtrTable[] =
     ANIM_CMD(CHARMELEON),
     ANIM_CMD(CHARIZARD),
     ANIM_CMD(ALEVINUS),
-    ANIM_CMD(WARTORTLE),
+    ANIM_CMD(BLINDALVIN),
     ANIM_CMD(BLASTOISE),
     ANIM_CMD(CATERPIE),
     ANIM_CMD(METAPOD),

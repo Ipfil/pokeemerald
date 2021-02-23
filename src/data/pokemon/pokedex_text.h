@@ -46,7 +46,7 @@ const u8 gAlevinusPokedexText[] = _(
     "surface minimize resistance in water,\n"
     "enabling ALEVINUS to swim at high speeds.");
 
-const u8 gWartortlePokedexText[] = _(
+const u8 gBlindalvinPokedexText[] = _(
     "Its large tail is covered with rich, thick\n"
     "fur that deepens in color with age.\n"
     "The scratches on its shell are evidence\n"

@@ -262,7 +262,7 @@ const struct BaseStats gBaseStats[] =
         .noFlip = FALSE,
     },
 
-    [SPECIES_WARTORTLE] =
+    [SPECIES_BLINDALVIN] =
     {
         .baseHP        = 59,
         .baseAttack    = 63,

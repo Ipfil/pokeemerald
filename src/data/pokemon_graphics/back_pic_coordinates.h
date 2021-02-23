@@ -40,7 +40,7 @@ const struct MonCoords gMonBackPicCoords[] =
         .size = 0x65,
         .y_offset = 14,
     },
-    [SPECIES_WARTORTLE] =
+    [SPECIES_BLINDALVIN] =
     {
         .size = 0x76,
         .y_offset = 10,

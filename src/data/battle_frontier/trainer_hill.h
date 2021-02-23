@@ -3689,7 +3689,7 @@ static const struct TrHillFloor sDataTagUnique_Floors[] = {
                                         },
                                     [1] =
                                         {
-                                            .species = SPECIES_WARTORTLE,
+                                            .species = SPECIES_BLINDALVIN,
                                             .heldItem = ITEM_MYSTIC_WATER,
                                             .moves = {MOVE_HYDRO_PUMP, MOVE_SKULL_BASH, MOVE_RAIN_DANCE, MOVE_PROTECT},
                                             .level = 0,
@@ -3705,7 +3705,7 @@ static const struct TrHillFloor sDataTagUnique_Floors[] = {
                                             .spDefenseIV = 25,
                                             .abilityNum = 0,
                                             .personality = 0x0,
-                                            .nickname = _("WARTORTLE"),
+                                            .nickname = _("BLINDALVIN"),
                                             .friendship = 100,
                                         },
                                     [2] =

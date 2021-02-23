@@ -96,12 +96,12 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
 
-    [NATIONAL_DEX_WARTORTLE] =
+    [NATIONAL_DEX_BLINDALVIN] =
     {
         .categoryName = _("TURTLE"),
         .height = 10,
         .weight = 225,
-        .description = gWartortlePokedexText,
+        .description = gBlindalvinPokedexText,
         .pokemonScale = 332,
         .pokemonOffset = 10,
         .trainerScale = 256,

@@ -47,12 +47,12 @@ const u32 gMonShinyPalette_Alevinus[] = INCBIN_U32("graphics/pokemon/alevinus/sh
 const u8 gMonIcon_Alevinus[] = INCBIN_U8("graphics/pokemon/alevinus/icon.4bpp");
 const u8 gMonFootprint_Alevinus[] = INCBIN_U8("graphics/pokemon/alevinus/footprint.1bpp");
 
-const u32 gMonStillFrontPic_Wartortle[] = INCBIN_U32("graphics/pokemon/wartortle/front.4bpp.lz");
-const u32 gMonPalette_Wartortle[] = INCBIN_U32("graphics/pokemon/wartortle/normal.gbapal.lz");
-const u32 gMonBackPic_Wartortle[] = INCBIN_U32("graphics/pokemon/wartortle/back.4bpp.lz");
-const u32 gMonShinyPalette_Wartortle[] = INCBIN_U32("graphics/pokemon/wartortle/shiny.gbapal.lz");
-const u8 gMonIcon_Wartortle[] = INCBIN_U8("graphics/pokemon/wartortle/icon.4bpp");
-const u8 gMonFootprint_Wartortle[] = INCBIN_U8("graphics/pokemon/wartortle/footprint.1bpp");
+const u32 gMonStillFrontPic_Blindalvin[] = INCBIN_U32("graphics/pokemon/blindalvin/front.4bpp.lz");
+const u32 gMonPalette_Blindalvin[] = INCBIN_U32("graphics/pokemon/blindalvin/normal.gbapal.lz");
+const u32 gMonBackPic_Blindalvin[] = INCBIN_U32("graphics/pokemon/blindalvin/back.4bpp.lz");
+const u32 gMonShinyPalette_Blindalvin[] = INCBIN_U32("graphics/pokemon/blindalvin/shiny.gbapal.lz");
+const u8 gMonIcon_Blindalvin[] = INCBIN_U8("graphics/pokemon/blindalvin/icon.4bpp");
+const u8 gMonFootprint_Blindalvin[] = INCBIN_U8("graphics/pokemon/blindalvin/footprint.1bpp");
 
 const u32 gMonStillFrontPic_Blastoise[] = INCBIN_U32("graphics/pokemon/blastoise/front.4bpp.lz");
 const u32 gMonPalette_Blastoise[] = INCBIN_U32("graphics/pokemon/blastoise/normal.gbapal.lz");
