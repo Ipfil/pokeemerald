@@ -182,7 +182,7 @@ static const union AnimCmd sAnim_RAPIDRO_1[] =
     ANIMCMD_END,
 };
 
-static const union AnimCmd sAnim_PIDGEOT_1[] =
+static const union AnimCmd sAnim_DROTONERRE_1[] =
 {
     ANIMCMD_FRAME(1, 20),
     ANIMCMD_FRAME(0, 10),
@@ -4895,9 +4895,9 @@ static const union AnimCmd *const sAnims_RAPIDRO[] ={
     sAnim_RAPIDRO_1,
 };
 
-static const union AnimCmd *const sAnims_PIDGEOT[] ={
+static const union AnimCmd *const sAnims_DROTONERRE[] ={
     sAnim_GeneralFrame0,
-    sAnim_PIDGEOT_1,
+    sAnim_DROTONERRE_1,
 };
 
 static const union AnimCmd *const sAnims_RATTATA[] ={
@@ -6968,7 +6968,7 @@ const union AnimCmd *const *const gMonFrontAnimsPtrTable[] =
     ANIM_CMD(BEEDRILL),
     ANIM_CMD(DRODODO),
     ANIM_CMD(RAPIDRO),
-    ANIM_CMD(PIDGEOT),
+    ANIM_CMD(DROTONERRE),
     ANIM_CMD(RATTATA),
     ANIM_CMD(RATICATE),
     ANIM_CMD(SPEAROW),

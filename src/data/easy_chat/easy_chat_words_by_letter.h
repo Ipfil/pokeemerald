@@ -1204,7 +1204,7 @@ const u16 gEasyChatWordsByLetter_P[] = {
     EC_POKEMON(PICHU),
     EC_POKEMON2(PICHU),
     EC_WORD_PICKUP,
-    EC_POKEMON2(PIDGEOT),
+    EC_POKEMON2(DROTONERRE),
     EC_POKEMON2(RAPIDRO),
     EC_POKEMON2(DRODODO),
     -1, 2, // Doubled pokemon species name
@@ -1978,7 +1978,7 @@ const u16 gEasyChatWordsByLetter_UnusedJapaneseHi[] = {
     EC_WORD_LOW,
     EC_POKEMON2(CLEFABLE),
     EC_WORD_FLYING,
-    EC_POKEMON2(PIDGEOT),
+    EC_POKEMON2(DROTONERRE),
     EC_POKEMON2(RAPIDRO),
     EC_WORD_LEFT,
     -1, 2, // Doubled pokemon species name

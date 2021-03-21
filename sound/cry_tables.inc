@@ -17,7 +17,7 @@ gCryTable:: @ 869DCF4
 	cry Cry_Beedrill  @ 869DD9C
 	cry Cry_Drododo  @ 869DDA8
 	cry Cry_Rapidro  @ 869DDB4
-	cry Cry_Pidgeot  @ 869DDC0
+	cry Cry_Drotonerre  @ 869DDC0
 	cry Cry_Rattata  @ 869DDCC
 	cry Cry_Raticate  @ 869DDD8
 	cry Cry_Spearow  @ 869DDE4
@@ -408,7 +408,7 @@ gCryTable2:: @ 869EF24
 	cry2 Cry_Beedrill  @ 869EFCC
 	cry2 Cry_Drododo  @ 869EFD8
 	cry2 Cry_Rapidro  @ 869EFE4
-	cry2 Cry_Pidgeot  @ 869EFF0
+	cry2 Cry_Drotonerre  @ 869EFF0
 	cry2 Cry_Rattata  @ 869EFFC
 	cry2 Cry_Raticate  @ 869F008
 	cry2 Cry_Spearow  @ 869F014

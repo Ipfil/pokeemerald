@@ -117,12 +117,12 @@ const u32 gMonShinyPalette_Rapidro[] = INCBIN_U32("graphics/pokemon/rapidro/shin
 const u8 gMonIcon_Rapidro[] = INCBIN_U8("graphics/pokemon/rapidro/icon.4bpp");
 const u8 gMonFootprint_Rapidro[] = INCBIN_U8("graphics/pokemon/rapidro/footprint.1bpp");
 
-const u32 gMonStillFrontPic_Pidgeot[] = INCBIN_U32("graphics/pokemon/pidgeot/front.4bpp.lz");
-const u32 gMonPalette_Pidgeot[] = INCBIN_U32("graphics/pokemon/pidgeot/normal.gbapal.lz");
-const u32 gMonBackPic_Pidgeot[] = INCBIN_U32("graphics/pokemon/pidgeot/back.4bpp.lz");
-const u32 gMonShinyPalette_Pidgeot[] = INCBIN_U32("graphics/pokemon/pidgeot/shiny.gbapal.lz");
-const u8 gMonIcon_Pidgeot[] = INCBIN_U8("graphics/pokemon/pidgeot/icon.4bpp");
-const u8 gMonFootprint_Pidgeot[] = INCBIN_U8("graphics/pokemon/pidgeot/footprint.1bpp");
+const u32 gMonStillFrontPic_Drotonerre[] = INCBIN_U32("graphics/pokemon/drotonerre/front.4bpp.lz");
+const u32 gMonPalette_Drotonerre[] = INCBIN_U32("graphics/pokemon/drotonerre/normal.gbapal.lz");
+const u32 gMonBackPic_Drotonerre[] = INCBIN_U32("graphics/pokemon/drotonerre/back.4bpp.lz");
+const u32 gMonShinyPalette_Drotonerre[] = INCBIN_U32("graphics/pokemon/drotonerre/shiny.gbapal.lz");
+const u8 gMonIcon_Drotonerre[] = INCBIN_U8("graphics/pokemon/drotonerre/icon.4bpp");
+const u8 gMonFootprint_Drotonerre[] = INCBIN_U8("graphics/pokemon/drotonerre/footprint.1bpp");
 
 const u32 gMonStillFrontPic_Rattata[] = INCBIN_U32("graphics/pokemon/rattata/front.4bpp.lz");
 const u32 gMonPalette_Rattata[] = INCBIN_U32("graphics/pokemon/rattata/normal.gbapal.lz");

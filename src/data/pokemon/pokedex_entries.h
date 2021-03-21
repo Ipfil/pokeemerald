@@ -216,12 +216,12 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
 
-    [NATIONAL_DEX_PIDGEOT] =
+    [NATIONAL_DEX_DROTONERRE] =
     {
         .categoryName = _("BIRD"),
         .height = 15,
         .weight = 395,
-        .description = gPidgeotPokedexText,
+        .description = gDrotonerrePokedexText,
         .pokemonScale = 269,
         .pokemonOffset = 0,
         .trainerScale = 256,

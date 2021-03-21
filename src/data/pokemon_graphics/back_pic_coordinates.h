@@ -90,7 +90,7 @@ const struct MonCoords gMonBackPicCoords[] =
         .size = 0x85,
         .y_offset = 12,
     },
-    [SPECIES_PIDGEOT] =
+    [SPECIES_DROTONERRE] =
     {
         .size = 0x78,
         .y_offset = 2,

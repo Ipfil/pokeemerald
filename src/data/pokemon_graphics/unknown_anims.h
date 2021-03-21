@@ -981,7 +981,7 @@ static const union AnimCmd *const sUnknownAnims_KAKUNA[] = {sAnim_GeneralFrame0}
 static const union AnimCmd *const sUnknownAnims_BEEDRILL[] = {sAnim_GeneralFrame0};
 static const union AnimCmd *const sUnknownAnims_DRODODO[] = {sAnim_GeneralFrame0};
 static const union AnimCmd *const sUnknownAnims_RAPIDRO[] = {sAnim_GeneralFrame0};
-static const union AnimCmd *const sUnknownAnims_PIDGEOT[] = {sAnim_GeneralFrame0};
+static const union AnimCmd *const sUnknownAnims_DROTONERRE[] = {sAnim_GeneralFrame0};
 static const union AnimCmd *const sUnknownAnims_RATTATA[] = {sAnim_GeneralFrame0};
 static const union AnimCmd *const sUnknownAnims_RATICATE[] = {sAnim_GeneralFrame0};
 static const union AnimCmd *const sUnknownAnims_SPEAROW[] = {sAnim_GeneralFrame0};
@@ -1894,7 +1894,7 @@ static const union AnimCmd *const *const sUnknownAnimsTable[] =
     ANIM_CMD(BEEDRILL),
     ANIM_CMD(DRODODO),
     ANIM_CMD(RAPIDRO),
-    ANIM_CMD(PIDGEOT),
+    ANIM_CMD(DROTONERRE),
     ANIM_CMD(RATTATA),
     ANIM_CMD(RATICATE),
     ANIM_CMD(SPEAROW),
