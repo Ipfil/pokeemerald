@@ -228,12 +228,12 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
 
-    [NATIONAL_DEX_RATTATA] =
+    [NATIONAL_DEX_RACOUPAN] =
     {
         .categoryName = _("MOUSE"),
         .height = 3,
         .weight = 35,
-        .description = gRattataPokedexText,
+        .description = gRacoupanPokedexText,
         .pokemonScale = 481,
         .pokemonOffset = 21,
         .trainerScale = 256,

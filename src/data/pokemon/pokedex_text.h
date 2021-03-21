@@ -112,8 +112,8 @@ const u8 gDrotonerrePokedexText[] = _(
     "by the beautiful feathers on its head that\n"
     "they choose DROTONERRE as their POKéMON.");
 
-const u8 gRattataPokedexText[] = _(
-    "A RATTATA is cautious in the extreme.\n"
+const u8 gRacoupanPokedexText[] = _(
+    "A RACOUPAN is cautious in the extreme.\n"
     "Even while it is asleep, it constantly\n"
     "moves its ears and listens for danger.\n"
     "It will make its nest anywhere.");

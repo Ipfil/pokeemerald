@@ -459,8 +459,8 @@ Cry_Drotonerre::
 	.incbin "sound/direct_sound_samples/cries/drotonerre.bin"
 
 	.align 2
-Cry_Rattata::
-	.incbin "sound/direct_sound_samples/cries/rattata.bin"
+Cry_Racoupan::
+	.incbin "sound/direct_sound_samples/cries/racoupan.bin"
 
 	.align 2
 Cry_Raticate::
