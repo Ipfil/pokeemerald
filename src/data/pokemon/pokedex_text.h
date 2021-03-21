@@ -100,7 +100,7 @@ const u8 gDrododoPokedexText[] = _(
     "its nest, however far it may be removed\n"
     "from its familiar surroundings.");
 
-const u8 gPidgeottoPokedexText[] = _(
+const u8 gRapidroPokedexText[] = _(
     "This POKéMON flies around, patrolling its\n"
     "large territory. If its living space is\n"
     "violated, it shows no mercy in thoroughly\n"

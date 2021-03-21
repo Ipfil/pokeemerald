@@ -550,7 +550,7 @@ const struct BaseStats gBaseStats[] =
         .noFlip = FALSE,
     },
 
-    [SPECIES_PIDGEOTTO] =
+    [SPECIES_RAPIDRO] =
     {
         .baseHP        = 63,
         .baseAttack    = 60,

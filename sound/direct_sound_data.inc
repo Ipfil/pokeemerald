@@ -451,8 +451,8 @@ Cry_Drododo::
 	.incbin "sound/direct_sound_samples/cries/drododo.bin"
 
 	.align 2
-Cry_Pidgeotto::
-	.incbin "sound/direct_sound_samples/cries/pidgeotto.bin"
+Cry_Rapidro::
+	.incbin "sound/direct_sound_samples/cries/rapidro.bin"
 
 	.align 2
 Cry_Pidgeot::

@@ -204,12 +204,12 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
 
-    [NATIONAL_DEX_PIDGEOTTO] =
+    [NATIONAL_DEX_RAPIDRO] =
     {
         .categoryName = _("BIRD"),
         .height = 11,
         .weight = 300,
-        .description = gPidgeottoPokedexText,
+        .description = gRapidroPokedexText,
         .pokemonScale = 331,
         .pokemonOffset = 10,
         .trainerScale = 256,
