@@ -15,7 +15,7 @@ const struct MonCoords gMonFrontPicCoords[] =
         .size = 0x56,
         .y_offset = 10,
     },
-    [SPECIES_VENUSAUR] =
+    [SPECIES_THERIFLOR] =
     {
         .size = 0x88,
         .y_offset = 3,

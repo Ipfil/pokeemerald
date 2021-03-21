@@ -102,7 +102,7 @@ const struct BaseStats gBaseStats[] =
         .noFlip = FALSE,
     },
 
-    [SPECIES_VENUSAUR] =
+    [SPECIES_THERIFLOR] =
     {
         .baseHP        = 80,
         .baseAttack    = 82,

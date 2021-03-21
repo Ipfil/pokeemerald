@@ -395,8 +395,8 @@ Cry_Ivysaur::
 	.incbin "sound/direct_sound_samples/cries/ivysaur.bin"
 
 	.align 2
-Cry_Venusaur::
-	.incbin "sound/direct_sound_samples/cries/venusaur.bin"
+Cry_Theriflor::
+	.incbin "sound/direct_sound_samples/cries/theriflor.bin"
 
 	.align 2
 Cry_Feuzard::

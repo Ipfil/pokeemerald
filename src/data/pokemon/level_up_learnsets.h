@@ -32,7 +32,7 @@ static const u16 sIvysaurLevelUpLearnset[] = {
     LEVEL_UP_END
 };
 
-static const u16 sVenusaurLevelUpLearnset[] = {
+static const u16 sTheriflorLevelUpLearnset[] = {
     LEVEL_UP_MOVE( 1, MOVE_TACKLE),
     LEVEL_UP_MOVE( 1, MOVE_GROWL),
     LEVEL_UP_MOVE( 1, MOVE_LEECH_SEED),

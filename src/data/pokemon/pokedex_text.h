@@ -16,8 +16,8 @@ const u8 gIvysaurPokedexText[] = _(
     "the sunlight, the bud will soon bloom into\n"
     "a large flower.");
 
-const u8 gVenusaurPokedexText[] = _(
-    "VENUSAUR's flower is said to take on vivid\n"
+const u8 gTheriflorPokedexText[] = _(
+    "THERIFLOR's flower is said to take on vivid\n"
     "colors if it gets plenty of nutrition and\n"
     "sunlight. The flower's aroma soothes the\n"
     "emotions of people.");

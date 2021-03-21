@@ -966,7 +966,7 @@ static const union AnimCmd sUnknownAnim_JIRACHI_1[] =
 static const union AnimCmd *const sUnknownAnims_NONE[] = {sAnim_GeneralFrame0};
 static const union AnimCmd *const sUnknownAnims_BULBASAUR[] = {sAnim_GeneralFrame0};
 static const union AnimCmd *const sUnknownAnims_IVYSAUR[] = {sAnim_GeneralFrame0};
-static const union AnimCmd *const sUnknownAnims_VENUSAUR[] = {sAnim_GeneralFrame0};
+static const union AnimCmd *const sUnknownAnims_THERIFLOR[] = {sAnim_GeneralFrame0};
 static const union AnimCmd *const sUnknownAnims_FEUZARD[] = {sAnim_GeneralFrame0};
 static const union AnimCmd *const sUnknownAnims_CHARMELEON[] = {sAnim_GeneralFrame0};
 static const union AnimCmd *const sUnknownAnims_CRAMOCHUS[] = {sAnim_GeneralFrame0};
@@ -1879,7 +1879,7 @@ static const union AnimCmd *const *const sUnknownAnimsTable[] =
     ANIM_CMD(NONE),
     ANIM_CMD(BULBASAUR),
     ANIM_CMD(IVYSAUR),
-    ANIM_CMD(VENUSAUR),
+    ANIM_CMD(THERIFLOR),
     ANIM_CMD(FEUZARD),
     ANIM_CMD(CHARMELEON),
     ANIM_CMD(CRAMOCHUS),

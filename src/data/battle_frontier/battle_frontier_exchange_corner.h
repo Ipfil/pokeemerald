@@ -17,7 +17,7 @@ static const u16 sFrontierExchangeCorner_Decor2[] =
 { 
     DECOR_LAPRAS_DOLL, 
     DECOR_SNORLAX_DOLL, 
-    DECOR_VENUSAUR_DOLL, 
+    DECOR_THERIFLOR_DOLL, 
     DECOR_CRAMOCHUS_DOLL, 
     DECOR_DUNKLEUS_DOLL, 
     0xFFFF 

@@ -2835,9 +2835,9 @@ static const u16 gPkmnJumpBgPal[] = INCBIN_U16("graphics/link_games/pkmnjump_bg.
 static const u32 gPkmnJumpBgGfx[] = INCBIN_U32("graphics/link_games/pkmnjump_bg.4bpp.lz");
 static const u32 gPkmnJumpBgTilemap[] = INCBIN_U32("graphics/link_games/pkmnjump_bg.bin.lz");
 
-static const u16 gPkmnJumpVenusaurPal[] = INCBIN_U16("graphics/link_games/pkmnjump_venusaur.gbapal");
-static const u32 gPkmnJumpVenusaurGfx[] = INCBIN_U32("graphics/link_games/pkmnjump_venusaur.4bpp.lz");
-static const u32 gPkmnJumpVenusaurTilemap[] = INCBIN_U32("graphics/link_games/pkmnjump_venusaur.bin.lz");
+static const u16 gPkmnJumpTheriflorPal[] = INCBIN_U16("graphics/link_games/pkmnjump_theriflor.gbapal");
+static const u32 gPkmnJumpTheriflorGfx[] = INCBIN_U32("graphics/link_games/pkmnjump_theriflor.4bpp.lz");
+static const u32 gPkmnJumpTheriflorTilemap[] = INCBIN_U32("graphics/link_games/pkmnjump_theriflor.bin.lz");
 
 static const u16 gPkmnJumpResultsPal[] = INCBIN_U16("graphics/link_games/pkmnjump_results.gbapal");
 static const u32 gPkmnJumpResultsGfx[] = INCBIN_U32("graphics/link_games/pkmnjump_results.4bpp.lz");
@@ -2971,9 +2971,9 @@ static void sub_802D150(void)
         LoadPalette(gPkmnJumpBgPal, 0, 0x20);
         DecompressAndCopyTileDataToVram(3, gPkmnJumpBgGfx, 0, 0, 0);
         DecompressAndCopyTileDataToVram(3, gPkmnJumpBgTilemap, 0, 0, 1);
-        LoadPalette(gPkmnJumpVenusaurPal, 0x30, 0x20);
-        DecompressAndCopyTileDataToVram(2, gPkmnJumpVenusaurGfx, 0, 0, 0);
-        DecompressAndCopyTileDataToVram(2, gPkmnJumpVenusaurTilemap, 0, 0, 1);
+        LoadPalette(gPkmnJumpTheriflorPal, 0x30, 0x20);
+        DecompressAndCopyTileDataToVram(2, gPkmnJumpTheriflorGfx, 0, 0, 0);
+        DecompressAndCopyTileDataToVram(2, gPkmnJumpTheriflorTilemap, 0, 0, 1);
         LoadPalette(gPkmnJumpResultsPal, 0x10, 0x20);
         DecompressAndCopyTileDataToVram(1, gPkmnJumpResultsGfx, 0, 0, 0);
         DecompressAndCopyTileDataToVram(1, gPkmnJumpResultsTilemap, 0, 0, 1);

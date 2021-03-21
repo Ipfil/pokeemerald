@@ -3074,7 +3074,7 @@ static const struct TrHillFloor sDataTagUnique_Floors[] = {
                                         },
                                     [2] =
                                         {
-                                            .species = SPECIES_VENUSAUR,
+                                            .species = SPECIES_THERIFLOR,
                                             .heldItem = ITEM_LEFTOVERS,
                                             .moves = {MOVE_SOLAR_BEAM, MOVE_EARTHQUAKE, MOVE_SYNTHESIS, MOVE_SUNNY_DAY},
                                             .level = 0,
@@ -3093,7 +3093,7 @@ static const struct TrHillFloor sDataTagUnique_Floors[] = {
                                             .spDefenseIV = 15,
                                             .abilityNum = 0,
                                             .personality = 0x1F,
-                                            .nickname = _("VENUSAUR"),
+                                            .nickname = _("THERIFLOR"),
                                             .friendship = 255,
                                         },
                                     [3] =

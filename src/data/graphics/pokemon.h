@@ -12,12 +12,12 @@ const u32 gMonShinyPalette_Ivysaur[] = INCBIN_U32("graphics/pokemon/ivysaur/shin
 const u8 gMonIcon_Ivysaur[] = INCBIN_U8("graphics/pokemon/ivysaur/icon.4bpp");
 const u8 gMonFootprint_Ivysaur[] = INCBIN_U8("graphics/pokemon/ivysaur/footprint.1bpp");
 
-const u32 gMonStillFrontPic_Venusaur[] = INCBIN_U32("graphics/pokemon/venusaur/front.4bpp.lz");
-const u32 gMonPalette_Venusaur[] = INCBIN_U32("graphics/pokemon/venusaur/normal.gbapal.lz");
-const u32 gMonBackPic_Venusaur[] = INCBIN_U32("graphics/pokemon/venusaur/back.4bpp.lz");
-const u32 gMonShinyPalette_Venusaur[] = INCBIN_U32("graphics/pokemon/venusaur/shiny.gbapal.lz");
-const u8 gMonIcon_Venusaur[] = INCBIN_U8("graphics/pokemon/venusaur/icon.4bpp");
-const u8 gMonFootprint_Venusaur[] = INCBIN_U8("graphics/pokemon/venusaur/footprint.1bpp");
+const u32 gMonStillFrontPic_Theriflor[] = INCBIN_U32("graphics/pokemon/theriflor/front.4bpp.lz");
+const u32 gMonPalette_Theriflor[] = INCBIN_U32("graphics/pokemon/theriflor/normal.gbapal.lz");
+const u32 gMonBackPic_Theriflor[] = INCBIN_U32("graphics/pokemon/theriflor/back.4bpp.lz");
+const u32 gMonShinyPalette_Theriflor[] = INCBIN_U32("graphics/pokemon/theriflor/shiny.gbapal.lz");
+const u8 gMonIcon_Theriflor[] = INCBIN_U8("graphics/pokemon/theriflor/icon.4bpp");
+const u8 gMonFootprint_Theriflor[] = INCBIN_U8("graphics/pokemon/theriflor/footprint.1bpp");
 
 const u32 gMonStillFrontPic_Feuzard[] = INCBIN_U32("graphics/pokemon/feuzard/front.4bpp.lz");
 const u32 gMonPalette_Feuzard[] = INCBIN_U32("graphics/pokemon/feuzard/normal.gbapal.lz");

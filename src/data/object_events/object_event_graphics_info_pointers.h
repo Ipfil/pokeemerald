@@ -178,7 +178,7 @@ const struct ObjectEventGraphicsInfo gObjectEventGraphicsInfo_WaterCushion;
 const struct ObjectEventGraphicsInfo gObjectEventGraphicsInfo_BigSnorlaxDoll;
 const struct ObjectEventGraphicsInfo gObjectEventGraphicsInfo_BigRhydonDoll;
 const struct ObjectEventGraphicsInfo gObjectEventGraphicsInfo_BigLaprasDoll;
-const struct ObjectEventGraphicsInfo gObjectEventGraphicsInfo_BigVenusaurDoll;
+const struct ObjectEventGraphicsInfo gObjectEventGraphicsInfo_BigTheriflorDoll;
 const struct ObjectEventGraphicsInfo gObjectEventGraphicsInfo_BigCramochusDoll;
 const struct ObjectEventGraphicsInfo gObjectEventGraphicsInfo_BigDunkleusDoll;
 const struct ObjectEventGraphicsInfo gObjectEventGraphicsInfo_BigWailmerDoll;
@@ -427,7 +427,7 @@ const struct ObjectEventGraphicsInfo *const gObjectEventGraphicsInfoPointers[NUM
     [OBJ_EVENT_GFX_BIG_SNORLAX_DOLL] =         &gObjectEventGraphicsInfo_BigSnorlaxDoll,
     [OBJ_EVENT_GFX_BIG_RHYDON_DOLL] =          &gObjectEventGraphicsInfo_BigRhydonDoll,
     [OBJ_EVENT_GFX_BIG_LAPRAS_DOLL] =          &gObjectEventGraphicsInfo_BigLaprasDoll,
-    [OBJ_EVENT_GFX_BIG_VENUSAUR_DOLL] =        &gObjectEventGraphicsInfo_BigVenusaurDoll,
+    [OBJ_EVENT_GFX_BIG_THERIFLOR_DOLL] =        &gObjectEventGraphicsInfo_BigTheriflorDoll,
     [OBJ_EVENT_GFX_BIG_CRAMOCHUS_DOLL] =       &gObjectEventGraphicsInfo_BigCramochusDoll,
     [OBJ_EVENT_GFX_BIG_DUNKLEUS_DOLL] =       &gObjectEventGraphicsInfo_BigDunkleusDoll,
     [OBJ_EVENT_GFX_BIG_WAILMER_DOLL] =         &gObjectEventGraphicsInfo_BigWailmerDoll,

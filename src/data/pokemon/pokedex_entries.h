@@ -36,12 +36,12 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
 
-    [NATIONAL_DEX_VENUSAUR] =
+    [NATIONAL_DEX_THERIFLOR] =
     {
         .categoryName = _("SEED"),
         .height = 20,
         .weight = 1000,
-        .description = gVenusaurPokedexText,
+        .description = gTheriflorPokedexText,
         .pokemonScale = 256,
         .pokemonOffset = 0,
         .trainerScale = 388,
