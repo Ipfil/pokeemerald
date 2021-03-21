@@ -45,7 +45,7 @@ const struct MonCoords gMonFrontPicCoords[] =
         .size = 0x66,
         .y_offset = 8,
     },
-    [SPECIES_BLASTOISE] =
+    [SPECIES_DUNKLEUS] =
     {
         .size = 0x88,
         .y_offset = 0,

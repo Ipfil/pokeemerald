@@ -8,7 +8,7 @@ gCryTable:: @ 869DCF4
 	cry Cry_Charizard  @ 869DD30
 	cry Cry_Alevinus  @ 869DD3C
 	cry Cry_Blindalvin  @ 869DD48
-	cry Cry_Blastoise  @ 869DD54
+	cry Cry_Dunkleus  @ 869DD54
 	cry Cry_Caterpie  @ 869DD60
 	cry Cry_Metapod  @ 869DD6C
 	cry Cry_Butterfree  @ 869DD78
@@ -399,7 +399,7 @@ gCryTable2:: @ 869EF24
 	cry2 Cry_Charizard  @ 869EF60
 	cry2 Cry_Alevinus  @ 869EF6C
 	cry2 Cry_Blindalvin  @ 869EF78
-	cry2 Cry_Blastoise  @ 869EF84
+	cry2 Cry_Dunkleus  @ 869EF84
 	cry2 Cry_Caterpie  @ 869EF90
 	cry2 Cry_Metapod  @ 869EF9C
 	cry2 Cry_Butterfree  @ 869EFA8

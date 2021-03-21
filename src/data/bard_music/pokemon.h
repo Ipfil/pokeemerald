@@ -76,7 +76,7 @@ const struct BardSound gBardSounds_Pokemon[NUM_SPECIES][6] = {
         NULL_BARD_SOUND,
         NULL_BARD_SOUND
     },
-    [SPECIES_BLASTOISE] = {
+    [SPECIES_DUNKLEUS] = {
         { 0x0, 0x0, 0x0, 0x0, 0x0},
         { 0x1e, 0x0, 0x0, 0x0, 0x0},
         { 0x33, 0x0, 0x0, 0x0, 0x0},

@@ -54,12 +54,12 @@ const u32 gMonShinyPalette_Blindalvin[] = INCBIN_U32("graphics/pokemon/blindalvi
 const u8 gMonIcon_Blindalvin[] = INCBIN_U8("graphics/pokemon/blindalvin/icon.4bpp");
 const u8 gMonFootprint_Blindalvin[] = INCBIN_U8("graphics/pokemon/blindalvin/footprint.1bpp");
 
-const u32 gMonStillFrontPic_Blastoise[] = INCBIN_U32("graphics/pokemon/blastoise/front.4bpp.lz");
-const u32 gMonPalette_Blastoise[] = INCBIN_U32("graphics/pokemon/blastoise/normal.gbapal.lz");
-const u32 gMonBackPic_Blastoise[] = INCBIN_U32("graphics/pokemon/blastoise/back.4bpp.lz");
-const u32 gMonShinyPalette_Blastoise[] = INCBIN_U32("graphics/pokemon/blastoise/shiny.gbapal.lz");
-const u8 gMonIcon_Blastoise[] = INCBIN_U8("graphics/pokemon/blastoise/icon.4bpp");
-const u8 gMonFootprint_Blastoise[] = INCBIN_U8("graphics/pokemon/blastoise/footprint.1bpp");
+const u32 gMonStillFrontPic_Dunkleus[] = INCBIN_U32("graphics/pokemon/dunkleus/front.4bpp.lz");
+const u32 gMonPalette_Dunkleus[] = INCBIN_U32("graphics/pokemon/dunkleus/normal.gbapal.lz");
+const u32 gMonBackPic_Dunkleus[] = INCBIN_U32("graphics/pokemon/dunkleus/back.4bpp.lz");
+const u32 gMonShinyPalette_Dunkleus[] = INCBIN_U32("graphics/pokemon/dunkleus/shiny.gbapal.lz");
+const u8 gMonIcon_Dunkleus[] = INCBIN_U8("graphics/pokemon/dunkleus/icon.4bpp");
+const u8 gMonFootprint_Dunkleus[] = INCBIN_U8("graphics/pokemon/dunkleus/footprint.1bpp");
 
 const u32 gMonStillFrontPic_Caterpie[] = INCBIN_U32("graphics/pokemon/caterpie/front.4bpp.lz");
 const u32 gMonPalette_Caterpie[] = INCBIN_U32("graphics/pokemon/caterpie/normal.gbapal.lz");

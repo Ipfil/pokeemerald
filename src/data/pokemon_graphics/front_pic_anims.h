@@ -69,7 +69,7 @@ static const union AnimCmd sAnim_BLINDALVIN_1[] =
     ANIMCMD_END,
 };
 
-static const union AnimCmd sAnim_BLASTOISE_1[] =
+static const union AnimCmd sAnim_DUNKLEUS_1[] =
 {
     ANIMCMD_FRAME(0, 50),
     ANIMCMD_FRAME(1, 25),
@@ -4850,9 +4850,9 @@ static const union AnimCmd *const sAnims_BLINDALVIN[] ={
     sAnim_BLINDALVIN_1,
 };
 
-static const union AnimCmd *const sAnims_BLASTOISE[] ={
+static const union AnimCmd *const sAnims_DUNKLEUS[] ={
     sAnim_GeneralFrame0,
-    sAnim_BLASTOISE_1,
+    sAnim_DUNKLEUS_1,
 };
 
 static const union AnimCmd *const sAnims_CATERPIE[] ={
@@ -6959,7 +6959,7 @@ const union AnimCmd *const *const gMonFrontAnimsPtrTable[] =
     ANIM_CMD(CHARIZARD),
     ANIM_CMD(ALEVINUS),
     ANIM_CMD(BLINDALVIN),
-    ANIM_CMD(BLASTOISE),
+    ANIM_CMD(DUNKLEUS),
     ANIM_CMD(CATERPIE),
     ANIM_CMD(METAPOD),
     ANIM_CMD(BUTTERFREE),

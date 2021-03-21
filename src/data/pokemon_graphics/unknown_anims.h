@@ -972,7 +972,7 @@ static const union AnimCmd *const sUnknownAnims_CHARMELEON[] = {sAnim_GeneralFra
 static const union AnimCmd *const sUnknownAnims_CHARIZARD[] = {sAnim_GeneralFrame0};
 static const union AnimCmd *const sUnknownAnims_ALEVINUS[] = {sAnim_GeneralFrame0};
 static const union AnimCmd *const sUnknownAnims_BLINDALVIN[] = {sAnim_GeneralFrame0};
-static const union AnimCmd *const sUnknownAnims_BLASTOISE[] = {sAnim_GeneralFrame0};
+static const union AnimCmd *const sUnknownAnims_DUNKLEUS[] = {sAnim_GeneralFrame0};
 static const union AnimCmd *const sUnknownAnims_CATERPIE[] = {sAnim_GeneralFrame0};
 static const union AnimCmd *const sUnknownAnims_METAPOD[] = {sAnim_GeneralFrame0};
 static const union AnimCmd *const sUnknownAnims_BUTTERFREE[] = {sAnim_GeneralFrame0};
@@ -1885,7 +1885,7 @@ static const union AnimCmd *const *const sUnknownAnimsTable[] =
     ANIM_CMD(CHARIZARD),
     ANIM_CMD(ALEVINUS),
     ANIM_CMD(BLINDALVIN),
-    ANIM_CMD(BLASTOISE),
+    ANIM_CMD(DUNKLEUS),
     ANIM_CMD(CATERPIE),
     ANIM_CMD(METAPOD),
     ANIM_CMD(BUTTERFREE),

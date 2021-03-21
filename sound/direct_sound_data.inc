@@ -419,8 +419,8 @@ Cry_Blindalvin::
 	.incbin "sound/direct_sound_samples/cries/blindalvin.bin"
 
 	.align 2
-Cry_Blastoise::
-	.incbin "sound/direct_sound_samples/cries/blastoise.bin"
+Cry_Dunkleus::
+	.incbin "sound/direct_sound_samples/cries/dunkleus.bin"
 
 	.align 2
 Cry_Caterpie::

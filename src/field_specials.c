@@ -2482,7 +2482,7 @@ static const u8 *const sScrollableMultichoiceOptions[][MAX_SCROLL_MULTI_LENGTH] 
         gText_SnorlaxDoll128BP,
         gText_VenusaurDoll256BP,
         gText_CharizardDoll256BP,
-        gText_BlastoiseDoll256BP,
+        gText_DunkleusDoll256BP,
         gText_Exit
     },
     [SCROLL_MULTI_BF_EXCHANGE_CORNER_VITAMIN_VENDOR] =

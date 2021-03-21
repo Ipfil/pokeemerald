@@ -52,7 +52,7 @@ const u8 gBlindalvinPokedexText[] = _(
     "The scratches on its shell are evidence\n"
     "of this POKéMON's toughness in battle.");
 
-const u8 gBlastoisePokedexText[] = _(
+const u8 gDunkleusPokedexText[] = _(
     "The waterspouts that protrude from its\n"
     "shell are highly accurate. Their bullets of\n"
     "water can precisely nail tin cans from\n"
