@@ -1,5 +1,5 @@
-gTrickHouse_Mechadoll_Oddish:: @ 27ECBC
-	.string "ODDISH$"
+gTrickHouse_Mechadoll_Sensigrain:: @ 27ECBC
+	.string "SENSIGRAIN$"
 
 gTrickHouse_Mechadoll_Poochyena:: @ 27ECC3
 	.string "POOCHYENA$"

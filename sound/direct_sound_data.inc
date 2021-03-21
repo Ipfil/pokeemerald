@@ -555,8 +555,8 @@ Cry_Golbat::
 	.incbin "sound/direct_sound_samples/cries/golbat.bin"
 
 	.align 2
-Cry_Oddish::
-	.incbin "sound/direct_sound_samples/cries/oddish.bin"
+Cry_Sensigrain::
+	.incbin "sound/direct_sound_samples/cries/sensigrain.bin"
 
 	.align 2
 Cry_Gloom::

@@ -1006,7 +1006,7 @@ static const union AnimCmd *const sUnknownAnims_JIGGLYPUFF[] = {sAnim_GeneralFra
 static const union AnimCmd *const sUnknownAnims_WIGGLYTUFF[] = {sAnim_GeneralFrame0};
 static const union AnimCmd *const sUnknownAnims_ZUBAT[] = {sAnim_GeneralFrame0};
 static const union AnimCmd *const sUnknownAnims_GOLBAT[] = {sAnim_GeneralFrame0};
-static const union AnimCmd *const sUnknownAnims_ODDISH[] = {sAnim_GeneralFrame0};
+static const union AnimCmd *const sUnknownAnims_SENSIGRAIN[] = {sAnim_GeneralFrame0};
 static const union AnimCmd *const sUnknownAnims_GLOOM[] = {sAnim_GeneralFrame0};
 static const union AnimCmd *const sUnknownAnims_VILEPLUME[] = {sAnim_GeneralFrame0};
 static const union AnimCmd *const sUnknownAnims_PARAS[] = {sAnim_GeneralFrame0};
@@ -1919,7 +1919,7 @@ static const union AnimCmd *const *const sUnknownAnimsTable[] =
     ANIM_CMD(WIGGLYTUFF),
     ANIM_CMD(ZUBAT),
     ANIM_CMD(GOLBAT),
-    ANIM_CMD(ODDISH),
+    ANIM_CMD(SENSIGRAIN),
     ANIM_CMD(GLOOM),
     ANIM_CMD(VILEPLUME),
     ANIM_CMD(PARAS),

@@ -1382,7 +1382,7 @@ const struct BaseStats gBaseStats[] =
         .noFlip = FALSE,
     },
 
-    [SPECIES_ODDISH] =
+    [SPECIES_SENSIGRAIN] =
     {
         .baseHP        = 45,
         .baseAttack    = 50,

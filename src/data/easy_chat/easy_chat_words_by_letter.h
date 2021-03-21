@@ -1136,8 +1136,8 @@ const u16 gEasyChatWordsByLetter_O[] = {
     EC_MOVE(OCTAZOOKA),
     EC_POKEMON2(OCTILLERY),
     -1, 2, // Doubled pokemon species name
-    EC_POKEMON(ODDISH),
-    EC_POKEMON2(ODDISH),
+    EC_POKEMON(SENSIGRAIN),
+    EC_POKEMON2(SENSIGRAIN),
     EC_MOVE(ODOR_SLEUTH),
     EC_WORD_OF,
     EC_WORD_OFF,

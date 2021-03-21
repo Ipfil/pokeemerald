@@ -215,7 +215,7 @@ const struct MonCoords gMonFrontPicCoords[] =
         .size = 0x88,
         .y_offset = 3,
     },
-    [SPECIES_ODDISH] =
+    [SPECIES_SENSIGRAIN] =
     {
         .size = 0x45,
         .y_offset = 15,

@@ -537,7 +537,7 @@ static const union AnimCmd sAnim_GOLBAT_1[] =
     ANIMCMD_END,
 };
 
-static const union AnimCmd sAnim_ODDISH_1[] =
+static const union AnimCmd sAnim_SENSIGRAIN_1[] =
 {
     ANIMCMD_FRAME(0, 11),
     ANIMCMD_FRAME(1, 11),
@@ -5028,9 +5028,9 @@ static const union AnimCmd *const sAnims_GOLBAT[] ={
     sAnim_GOLBAT_1,
 };
 
-static const union AnimCmd *const sAnims_ODDISH[] ={
+static const union AnimCmd *const sAnims_SENSIGRAIN[] ={
     sAnim_GeneralFrame0,
-    sAnim_ODDISH_1,
+    sAnim_SENSIGRAIN_1,
 };
 
 static const union AnimCmd *const sAnims_GLOOM[] ={
@@ -6993,7 +6993,7 @@ const union AnimCmd *const *const gMonFrontAnimsPtrTable[] =
     ANIM_CMD(WIGGLYTUFF),
     ANIM_CMD(ZUBAT),
     ANIM_CMD(GOLBAT),
-    ANIM_CMD(ODDISH),
+    ANIM_CMD(SENSIGRAIN),
     ANIM_CMD(GLOOM),
     ANIM_CMD(VILEPLUME),
     ANIM_CMD(PARAS),

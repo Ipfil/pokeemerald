@@ -256,7 +256,7 @@ const u8 gGolbatPokedexText[] = _(
     "of people and POKéMON. It flits about in\n"
     "darkness and strikes from behind.");
 
-const u8 gOddishPokedexText[] = _(
+const u8 gSensigrainPokedexText[] = _(
     "This POKéMON grows by absorbing moonlight.\n"
     "During the daytime, it buries itself in the\n"
     "ground, leaving only its leaves exposed to\n"

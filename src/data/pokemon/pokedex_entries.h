@@ -516,12 +516,12 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
 
-    [NATIONAL_DEX_ODDISH] =
+    [NATIONAL_DEX_SENSIGRAIN] =
     {
         .categoryName = _("WEED"),
         .height = 5,
         .weight = 54,
-        .description = gOddishPokedexText,
+        .description = gSensigrainPokedexText,
         .pokemonScale = 423,
         .pokemonOffset = 19,
         .trainerScale = 256,

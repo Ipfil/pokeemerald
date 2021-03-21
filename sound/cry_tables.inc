@@ -42,7 +42,7 @@ gCryTable:: @ 869DCF4
 	cry Cry_Wigglytuff  @ 869DEC8
 	cry Cry_Zubat  @ 869DED4
 	cry Cry_Golbat  @ 869DEE0
-	cry Cry_Oddish  @ 869DEEC
+	cry Cry_Sensigrain  @ 869DEEC
 	cry Cry_Gloom  @ 869DEF8
 	cry Cry_Vileplume  @ 869DF04
 	cry Cry_Paras  @ 869DF10
@@ -433,7 +433,7 @@ gCryTable2:: @ 869EF24
 	cry2 Cry_Wigglytuff  @ 869F0F8
 	cry2 Cry_Zubat  @ 869F104
 	cry2 Cry_Golbat  @ 869F110
-	cry2 Cry_Oddish  @ 869F11C
+	cry2 Cry_Sensigrain  @ 869F11C
 	cry2 Cry_Gloom  @ 869F128
 	cry2 Cry_Vileplume  @ 869F134
 	cry2 Cry_Paras  @ 869F140

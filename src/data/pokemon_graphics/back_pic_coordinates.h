@@ -215,7 +215,7 @@ const struct MonCoords gMonBackPicCoords[] =
         .size = 0x87,
         .y_offset = 6,
     },
-    [SPECIES_ODDISH] =
+    [SPECIES_SENSIGRAIN] =
     {
         .size = 0x56,
         .y_offset = 11,
