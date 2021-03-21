@@ -15,7 +15,7 @@ static const u16 sBulbasaurLevelUpLearnset[] = {
     LEVEL_UP_END
 };
 
-static const u16 sIvysaurLevelUpLearnset[] = {
+static const u16 sGriffleurLevelUpLearnset[] = {
     LEVEL_UP_MOVE( 1, MOVE_TACKLE),
     LEVEL_UP_MOVE( 1, MOVE_GROWL),
     LEVEL_UP_MOVE( 1, MOVE_LEECH_SEED),

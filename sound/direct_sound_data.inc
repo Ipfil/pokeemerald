@@ -391,8 +391,8 @@ Cry_Bulbasaur::
 	.incbin "sound/direct_sound_samples/cries/bulbasaur.bin"
 
 	.align 2
-Cry_Ivysaur::
-	.incbin "sound/direct_sound_samples/cries/ivysaur.bin"
+Cry_Griffleur::
+	.incbin "sound/direct_sound_samples/cries/griffleur.bin"
 
 	.align 2
 Cry_Theriflor::

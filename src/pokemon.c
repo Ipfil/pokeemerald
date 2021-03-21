@@ -96,7 +96,7 @@ static const struct CombinedMove sCombinedMoves[2] =
 const u16 gSpeciesToHoennPokedexNum[] = // Assigns all species to the Hoenn Dex Index (Summary No. for Hoenn Dex)
 {
     SPECIES_TO_HOENN(BULBASAUR),
-    SPECIES_TO_HOENN(IVYSAUR),
+    SPECIES_TO_HOENN(GRIFFLEUR),
     SPECIES_TO_HOENN(THERIFLOR),
     SPECIES_TO_HOENN(FEUZARD),
     SPECIES_TO_HOENN(CHARMELEON),
@@ -511,7 +511,7 @@ const u16 gSpeciesToHoennPokedexNum[] = // Assigns all species to the Hoenn Dex 
 const u16 gSpeciesToNationalPokedexNum[] = // Assigns all species to the National Dex Index (Summary No. for National Dex)
 {
     SPECIES_TO_NATIONAL(BULBASAUR),
-    SPECIES_TO_NATIONAL(IVYSAUR),
+    SPECIES_TO_NATIONAL(GRIFFLEUR),
     SPECIES_TO_NATIONAL(THERIFLOR),
     SPECIES_TO_NATIONAL(FEUZARD),
     SPECIES_TO_NATIONAL(CHARMELEON),
@@ -1128,7 +1128,7 @@ const u16 gHoennToNationalOrder[] = // Assigns Hoenn Dex Pokémon (Using Nationa
     HOENN_TO_NATIONAL(JIRACHI),
     HOENN_TO_NATIONAL(DEOXYS),
     HOENN_TO_NATIONAL(BULBASAUR), // Pokémon from here onwards are UNSEEN in the HoennDex.
-    HOENN_TO_NATIONAL(IVYSAUR),
+    HOENN_TO_NATIONAL(GRIFFLEUR),
     HOENN_TO_NATIONAL(THERIFLOR),
     HOENN_TO_NATIONAL(FEUZARD),
     HOENN_TO_NATIONAL(CHARMELEON),
@@ -1392,7 +1392,7 @@ const s8 gNatureStatTable[NUM_NATURES][NUM_NATURE_STATS] =
 static const u8 sMonFrontAnimIdsTable[] =
 {
     [SPECIES_BULBASAUR - 1] = 0x06,
-    [SPECIES_IVYSAUR - 1] = 0x17,
+    [SPECIES_GRIFFLEUR - 1] = 0x17,
     [SPECIES_THERIFLOR - 1] = 0x2f,
     [SPECIES_FEUZARD - 1] = 0x52,
     [SPECIES_CHARMELEON - 1] = 0x25,

@@ -3,7 +3,7 @@
 const u32 gMonFrontPic_CircledQuestionMark[] = INCBIN_U32("graphics/pokemon/question_mark/circled/anim_front.4bpp.lz");
 
 const u32 gMonFrontPic_Bulbasaur[] = INCBIN_U32("graphics/pokemon/bulbasaur/anim_front.4bpp.lz");
-const u32 gMonFrontPic_Ivysaur[] = INCBIN_U32("graphics/pokemon/ivysaur/anim_front.4bpp.lz");
+const u32 gMonFrontPic_Griffleur[] = INCBIN_U32("graphics/pokemon/griffleur/anim_front.4bpp.lz");
 const u32 gMonFrontPic_Theriflor[] = INCBIN_U32("graphics/pokemon/theriflor/anim_front.4bpp.lz");
 const u32 gMonFrontPic_Feuzard[] = INCBIN_U32("graphics/pokemon/feuzard/anim_front.4bpp.lz");
 const u32 gMonFrontPic_Charmeleon[] = INCBIN_U32("graphics/pokemon/charmeleon/anim_front.4bpp.lz");

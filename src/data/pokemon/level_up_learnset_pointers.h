@@ -2,7 +2,7 @@ const u16 *const gLevelUpLearnsets[NUM_SPECIES] =
 {
     [SPECIES_NONE] = sBulbasaurLevelUpLearnset,
     [SPECIES_BULBASAUR] = sBulbasaurLevelUpLearnset,
-    [SPECIES_IVYSAUR] = sIvysaurLevelUpLearnset,
+    [SPECIES_GRIFFLEUR] = sGriffleurLevelUpLearnset,
     [SPECIES_THERIFLOR] = sTheriflorLevelUpLearnset,
     [SPECIES_FEUZARD] = sFeuzardLevelUpLearnset,
     [SPECIES_CHARMELEON] = sCharmeleonLevelUpLearnset,

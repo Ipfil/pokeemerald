@@ -24,12 +24,12 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
 
-    [NATIONAL_DEX_IVYSAUR] =
+    [NATIONAL_DEX_GRIFFLEUR] =
     {
         .categoryName = _("SEED"),
         .height = 10,
         .weight = 130,
-        .description = gIvysaurPokedexText,
+        .description = gGriffleurPokedexText,
         .pokemonScale = 335,
         .pokemonOffset = 13,
         .trainerScale = 256,

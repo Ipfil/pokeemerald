@@ -10,7 +10,7 @@ const struct MonCoords gMonBackPicCoords[] =
         .size = 0x64,
         .y_offset = 16,
     },
-    [SPECIES_IVYSAUR] =
+    [SPECIES_GRIFFLEUR] =
     {
         .size = 0x66,
         .y_offset = 9,

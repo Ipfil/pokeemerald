@@ -5,12 +5,12 @@ const u32 gMonShinyPalette_Bulbasaur[] = INCBIN_U32("graphics/pokemon/bulbasaur/
 const u8 gMonIcon_Bulbasaur[] = INCBIN_U8("graphics/pokemon/bulbasaur/icon.4bpp");
 const u8 gMonFootprint_Bulbasaur[] = INCBIN_U8("graphics/pokemon/bulbasaur/footprint.1bpp");
 
-const u32 gMonStillFrontPic_Ivysaur[] = INCBIN_U32("graphics/pokemon/ivysaur/front.4bpp.lz");
-const u32 gMonPalette_Ivysaur[] = INCBIN_U32("graphics/pokemon/ivysaur/normal.gbapal.lz");
-const u32 gMonBackPic_Ivysaur[] = INCBIN_U32("graphics/pokemon/ivysaur/back.4bpp.lz");
-const u32 gMonShinyPalette_Ivysaur[] = INCBIN_U32("graphics/pokemon/ivysaur/shiny.gbapal.lz");
-const u8 gMonIcon_Ivysaur[] = INCBIN_U8("graphics/pokemon/ivysaur/icon.4bpp");
-const u8 gMonFootprint_Ivysaur[] = INCBIN_U8("graphics/pokemon/ivysaur/footprint.1bpp");
+const u32 gMonStillFrontPic_Griffleur[] = INCBIN_U32("graphics/pokemon/griffleur/front.4bpp.lz");
+const u32 gMonPalette_Griffleur[] = INCBIN_U32("graphics/pokemon/griffleur/normal.gbapal.lz");
+const u32 gMonBackPic_Griffleur[] = INCBIN_U32("graphics/pokemon/griffleur/back.4bpp.lz");
+const u32 gMonShinyPalette_Griffleur[] = INCBIN_U32("graphics/pokemon/griffleur/shiny.gbapal.lz");
+const u8 gMonIcon_Griffleur[] = INCBIN_U8("graphics/pokemon/griffleur/icon.4bpp");
+const u8 gMonFootprint_Griffleur[] = INCBIN_U8("graphics/pokemon/griffleur/footprint.1bpp");
 
 const u32 gMonStillFrontPic_Theriflor[] = INCBIN_U32("graphics/pokemon/theriflor/front.4bpp.lz");
 const u32 gMonPalette_Theriflor[] = INCBIN_U32("graphics/pokemon/theriflor/normal.gbapal.lz");

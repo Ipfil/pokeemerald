@@ -70,7 +70,7 @@ const struct BaseStats gBaseStats[] =
         .noFlip = FALSE,
     },
 
-    [SPECIES_IVYSAUR] =
+    [SPECIES_GRIFFLEUR] =
     {
         .baseHP        = 60,
         .baseAttack    = 62,

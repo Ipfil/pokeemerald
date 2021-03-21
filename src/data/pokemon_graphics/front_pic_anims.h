@@ -14,7 +14,7 @@ static const union AnimCmd sAnim_BULBASAUR_1[] =
     ANIMCMD_END,
 };
 
-static const union AnimCmd sAnim_IVYSAUR_1[] =
+static const union AnimCmd sAnim_GRIFFLEUR_1[] =
 {
     ANIMCMD_FRAME(0, 1),
     ANIMCMD_FRAME(1, 36),
@@ -4815,9 +4815,9 @@ static const union AnimCmd *const sAnims_BULBASAUR[] ={
     sAnim_BULBASAUR_1,
 };
 
-static const union AnimCmd *const sAnims_IVYSAUR[] ={
+static const union AnimCmd *const sAnims_GRIFFLEUR[] ={
     sAnim_GeneralFrame0,
-    sAnim_IVYSAUR_1,
+    sAnim_GRIFFLEUR_1,
 };
 
 static const union AnimCmd *const sAnims_THERIFLOR[] ={
@@ -6952,7 +6952,7 @@ const union AnimCmd *const *const gMonFrontAnimsPtrTable[] =
 {
     ANIM_CMD(NONE),
     ANIM_CMD(BULBASAUR),
-    ANIM_CMD(IVYSAUR),
+    ANIM_CMD(GRIFFLEUR),
     ANIM_CMD(THERIFLOR),
     ANIM_CMD(FEUZARD),
     ANIM_CMD(CHARMELEON),
