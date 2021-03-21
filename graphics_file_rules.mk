@@ -376,7 +376,7 @@ $(UNUSEDGFXDIR)/obi_palpak3.gbapal: $(UNUSEDGFXDIR)/old_pal5.gbapal \
 	@cat $^ >$@
 
 $(UNUSEDGFXDIR)/obi1.4bpp: $(UNUSEDGFXDIR)/old_bulbasaur.4bpp \
-						   $(UNUSEDGFXDIR)/old_charizard.4bpp
+						   $(UNUSEDGFXDIR)/old_cramochus.4bpp
 	@cat $^ >$@
 
 $(UNUSEDGFXDIR)/obi2.4bpp: $(UNUSEDGFXDIR)/old_bulbasaur2.4bpp \

@@ -46,7 +46,7 @@ static const union AnimCmd sAnim_CHARMELEON_1[] =
     ANIMCMD_END,
 };
 
-static const union AnimCmd sAnim_CHARIZARD_1[] =
+static const union AnimCmd sAnim_CRAMOCHUS_1[] =
 {
     ANIMCMD_FRAME(1, 40),
     ANIMCMD_FRAME(0, 5),
@@ -4835,9 +4835,9 @@ static const union AnimCmd *const sAnims_CHARMELEON[] ={
     sAnim_CHARMELEON_1,
 };
 
-static const union AnimCmd *const sAnims_CHARIZARD[] ={
+static const union AnimCmd *const sAnims_CRAMOCHUS[] ={
     sAnim_GeneralFrame0,
-    sAnim_CHARIZARD_1,
+    sAnim_CRAMOCHUS_1,
 };
 
 static const union AnimCmd *const sAnims_ALEVINUS[] ={
@@ -6956,7 +6956,7 @@ const union AnimCmd *const *const gMonFrontAnimsPtrTable[] =
     ANIM_CMD(VENUSAUR),
     ANIM_CMD(FEUZARD),
     ANIM_CMD(CHARMELEON),
-    ANIM_CMD(CHARIZARD),
+    ANIM_CMD(CRAMOCHUS),
     ANIM_CMD(ALEVINUS),
     ANIM_CMD(BLINDALVIN),
     ANIM_CMD(DUNKLEUS),

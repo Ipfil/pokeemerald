@@ -34,8 +34,8 @@ const u8 gCharmeleonPokedexText[] = _(
     "becomes agitated, and the flame on its\n"
     "tail flares with a bluish white color.");
 
-const u8 gCharizardPokedexText[] = _(
-    "A CHARIZARD flies about in search of\n"
+const u8 gCramochusPokedexText[] = _(
+    "A CRAMOCHUS flies about in search of\n"
     "strong opponents. It breathes intense\n"
     "flames that can melt any material. However,\n"
     "it will never torch a weaker foe.");

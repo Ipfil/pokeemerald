@@ -33,12 +33,12 @@ const u32 gMonShinyPalette_Charmeleon[] = INCBIN_U32("graphics/pokemon/charmeleo
 const u8 gMonIcon_Charmeleon[] = INCBIN_U8("graphics/pokemon/charmeleon/icon.4bpp");
 const u8 gMonFootprint_Charmeleon[] = INCBIN_U8("graphics/pokemon/charmeleon/footprint.1bpp");
 
-const u32 gMonStillFrontPic_Charizard[] = INCBIN_U32("graphics/pokemon/charizard/front.4bpp.lz");
-const u32 gMonPalette_Charizard[] = INCBIN_U32("graphics/pokemon/charizard/normal.gbapal.lz");
-const u32 gMonBackPic_Charizard[] = INCBIN_U32("graphics/pokemon/charizard/back.4bpp.lz");
-const u32 gMonShinyPalette_Charizard[] = INCBIN_U32("graphics/pokemon/charizard/shiny.gbapal.lz");
-const u8 gMonIcon_Charizard[] = INCBIN_U8("graphics/pokemon/charizard/icon.4bpp");
-const u8 gMonFootprint_Charizard[] = INCBIN_U8("graphics/pokemon/charizard/footprint.1bpp");
+const u32 gMonStillFrontPic_Cramochus[] = INCBIN_U32("graphics/pokemon/cramochus/front.4bpp.lz");
+const u32 gMonPalette_Cramochus[] = INCBIN_U32("graphics/pokemon/cramochus/normal.gbapal.lz");
+const u32 gMonBackPic_Cramochus[] = INCBIN_U32("graphics/pokemon/cramochus/back.4bpp.lz");
+const u32 gMonShinyPalette_Cramochus[] = INCBIN_U32("graphics/pokemon/cramochus/shiny.gbapal.lz");
+const u8 gMonIcon_Cramochus[] = INCBIN_U8("graphics/pokemon/cramochus/icon.4bpp");
+const u8 gMonFootprint_Cramochus[] = INCBIN_U8("graphics/pokemon/cramochus/footprint.1bpp");
 
 const u32 gMonStillFrontPic_Alevinus[] = INCBIN_U32("graphics/pokemon/alevinus/front.4bpp.lz");
 const u32 gMonPalette_Alevinus[] = INCBIN_U32("graphics/pokemon/alevinus/normal.gbapal.lz");

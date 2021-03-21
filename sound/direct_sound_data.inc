@@ -407,8 +407,8 @@ Cry_Charmeleon::
 	.incbin "sound/direct_sound_samples/cries/charmeleon.bin"
 
 	.align 2
-Cry_Charizard::
-	.incbin "sound/direct_sound_samples/cries/charizard.bin"
+Cry_Cramochus::
+	.incbin "sound/direct_sound_samples/cries/cramochus.bin"
 
 	.align 2
 Cry_Alevinus::

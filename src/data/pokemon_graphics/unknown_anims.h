@@ -969,7 +969,7 @@ static const union AnimCmd *const sUnknownAnims_IVYSAUR[] = {sAnim_GeneralFrame0
 static const union AnimCmd *const sUnknownAnims_VENUSAUR[] = {sAnim_GeneralFrame0};
 static const union AnimCmd *const sUnknownAnims_FEUZARD[] = {sAnim_GeneralFrame0};
 static const union AnimCmd *const sUnknownAnims_CHARMELEON[] = {sAnim_GeneralFrame0};
-static const union AnimCmd *const sUnknownAnims_CHARIZARD[] = {sAnim_GeneralFrame0};
+static const union AnimCmd *const sUnknownAnims_CRAMOCHUS[] = {sAnim_GeneralFrame0};
 static const union AnimCmd *const sUnknownAnims_ALEVINUS[] = {sAnim_GeneralFrame0};
 static const union AnimCmd *const sUnknownAnims_BLINDALVIN[] = {sAnim_GeneralFrame0};
 static const union AnimCmd *const sUnknownAnims_DUNKLEUS[] = {sAnim_GeneralFrame0};
@@ -1882,7 +1882,7 @@ static const union AnimCmd *const *const sUnknownAnimsTable[] =
     ANIM_CMD(VENUSAUR),
     ANIM_CMD(FEUZARD),
     ANIM_CMD(CHARMELEON),
-    ANIM_CMD(CHARIZARD),
+    ANIM_CMD(CRAMOCHUS),
     ANIM_CMD(ALEVINUS),
     ANIM_CMD(BLINDALVIN),
     ANIM_CMD(DUNKLEUS),

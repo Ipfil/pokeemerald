@@ -5,7 +5,7 @@ gCryTable:: @ 869DCF4
 	cry Cry_Venusaur  @ 869DD0C
 	cry Cry_Feuzard  @ 869DD18
 	cry Cry_Charmeleon  @ 869DD24
-	cry Cry_Charizard  @ 869DD30
+	cry Cry_Cramochus  @ 869DD30
 	cry Cry_Alevinus  @ 869DD3C
 	cry Cry_Blindalvin  @ 869DD48
 	cry Cry_Dunkleus  @ 869DD54
@@ -396,7 +396,7 @@ gCryTable2:: @ 869EF24
 	cry2 Cry_Venusaur  @ 869EF3C
 	cry2 Cry_Feuzard  @ 869EF48
 	cry2 Cry_Charmeleon  @ 869EF54
-	cry2 Cry_Charizard  @ 869EF60
+	cry2 Cry_Cramochus  @ 869EF60
 	cry2 Cry_Alevinus  @ 869EF6C
 	cry2 Cry_Blindalvin  @ 869EF78
 	cry2 Cry_Dunkleus  @ 869EF84

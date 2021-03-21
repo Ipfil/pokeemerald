@@ -198,7 +198,7 @@ const struct BaseStats gBaseStats[] =
         .noFlip = FALSE,
     },
 
-    [SPECIES_CHARIZARD] =
+    [SPECIES_CRAMOCHUS] =
     {
         .baseHP        = 78,
         .baseAttack    = 84,

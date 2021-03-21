@@ -72,12 +72,12 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
 
-    [NATIONAL_DEX_CHARIZARD] =
+    [NATIONAL_DEX_CRAMOCHUS] =
     {
         .categoryName = _("FLAME"),
         .height = 17,
         .weight = 905,
-        .description = gCharizardPokedexText,
+        .description = gCramochusPokedexText,
         .pokemonScale = 256,
         .pokemonOffset = 1,
         .trainerScale = 302,
