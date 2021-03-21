@@ -463,8 +463,8 @@ Cry_Racoupan::
 	.incbin "sound/direct_sound_samples/cries/racoupan.bin"
 
 	.align 2
-Cry_Raticate::
-	.incbin "sound/direct_sound_samples/cries/raticate.bin"
+Cry_Razorus::
+	.incbin "sound/direct_sound_samples/cries/razorus.bin"
 
 	.align 2
 Cry_Spearow::

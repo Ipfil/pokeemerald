@@ -3600,7 +3600,7 @@ static const struct TrHillFloor sDataTagUnique_Floors[] = {
                                         },
                                     [5] =
                                         {
-                                            .species = SPECIES_RATICATE,
+                                            .species = SPECIES_RAZORUS,
                                             .heldItem = ITEM_FOCUS_BAND,
                                             .moves = {MOVE_SUPER_FANG, MOVE_NONE, MOVE_NONE, MOVE_NONE},
                                             .level = 0,
@@ -3617,7 +3617,7 @@ static const struct TrHillFloor sDataTagUnique_Floors[] = {
                                             .spDefenseIV = 5,
                                             .abilityNum = 1,
                                             .personality = 0xD,
-                                            .nickname = _("RATICATE"),
+                                            .nickname = _("RAZORUS"),
                                             .friendship = 255,
                                         },
                                 },

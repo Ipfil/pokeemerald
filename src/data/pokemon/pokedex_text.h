@@ -118,8 +118,8 @@ const u8 gRacoupanPokedexText[] = _(
     "moves its ears and listens for danger.\n"
     "It will make its nest anywhere.");
 
-const u8 gRaticatePokedexText[] = _(
-    "A RATICATE's sturdy fangs grow steadily.\n"
+const u8 gRazorusPokedexText[] = _(
+    "A RAZORUS's sturdy fangs grow steadily.\n"
     "To keep them ground down, it gnaws on\n"
     "rocks and logs. It may even chew on the\n"
     "walls of houses.");

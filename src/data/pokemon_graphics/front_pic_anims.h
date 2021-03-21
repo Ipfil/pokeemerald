@@ -201,7 +201,7 @@ static const union AnimCmd sAnim_RACOUPAN_1[] =
     ANIMCMD_END,
 };
 
-static const union AnimCmd sAnim_RATICATE_1[] =
+static const union AnimCmd sAnim_RAZORUS_1[] =
 {
     ANIMCMD_FRAME(1, 5),
     ANIMCMD_FRAME(0, 5),
@@ -4905,9 +4905,9 @@ static const union AnimCmd *const sAnims_RACOUPAN[] ={
     sAnim_RACOUPAN_1,
 };
 
-static const union AnimCmd *const sAnims_RATICATE[] ={
+static const union AnimCmd *const sAnims_RAZORUS[] ={
     sAnim_GeneralFrame0,
-    sAnim_RATICATE_1,
+    sAnim_RAZORUS_1,
 };
 
 static const union AnimCmd *const sAnims_SPEAROW[] ={
@@ -6970,7 +6970,7 @@ const union AnimCmd *const *const gMonFrontAnimsPtrTable[] =
     ANIM_CMD(RAPIDRO),
     ANIM_CMD(DROTONERRE),
     ANIM_CMD(RACOUPAN),
-    ANIM_CMD(RATICATE),
+    ANIM_CMD(RAZORUS),
     ANIM_CMD(SPEAROW),
     ANIM_CMD(FEAROW),
     ANIM_CMD(EKANS),

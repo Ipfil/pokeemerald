@@ -100,7 +100,7 @@ const struct MonCoords gMonBackPicCoords[] =
         .size = 0x65,
         .y_offset = 13,
     },
-    [SPECIES_RATICATE] =
+    [SPECIES_RAZORUS] =
     {
         .size = 0x75,
         .y_offset = 13,

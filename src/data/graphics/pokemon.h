@@ -131,12 +131,12 @@ const u32 gMonShinyPalette_Racoupan[] = INCBIN_U32("graphics/pokemon/racoupan/sh
 const u8 gMonIcon_Racoupan[] = INCBIN_U8("graphics/pokemon/racoupan/icon.4bpp");
 const u8 gMonFootprint_Racoupan[] = INCBIN_U8("graphics/pokemon/racoupan/footprint.1bpp");
 
-const u32 gMonStillFrontPic_Raticate[] = INCBIN_U32("graphics/pokemon/raticate/front.4bpp.lz");
-const u32 gMonPalette_Raticate[] = INCBIN_U32("graphics/pokemon/raticate/normal.gbapal.lz");
-const u32 gMonBackPic_Raticate[] = INCBIN_U32("graphics/pokemon/raticate/back.4bpp.lz");
-const u32 gMonShinyPalette_Raticate[] = INCBIN_U32("graphics/pokemon/raticate/shiny.gbapal.lz");
-const u8 gMonIcon_Raticate[] = INCBIN_U8("graphics/pokemon/raticate/icon.4bpp");
-const u8 gMonFootprint_Raticate[] = INCBIN_U8("graphics/pokemon/raticate/footprint.1bpp");
+const u32 gMonStillFrontPic_Razorus[] = INCBIN_U32("graphics/pokemon/razorus/front.4bpp.lz");
+const u32 gMonPalette_Razorus[] = INCBIN_U32("graphics/pokemon/razorus/normal.gbapal.lz");
+const u32 gMonBackPic_Razorus[] = INCBIN_U32("graphics/pokemon/razorus/back.4bpp.lz");
+const u32 gMonShinyPalette_Razorus[] = INCBIN_U32("graphics/pokemon/razorus/shiny.gbapal.lz");
+const u8 gMonIcon_Razorus[] = INCBIN_U8("graphics/pokemon/razorus/icon.4bpp");
+const u8 gMonFootprint_Razorus[] = INCBIN_U8("graphics/pokemon/razorus/footprint.1bpp");
 
 const u32 gMonStillFrontPic_Spearow[] = INCBIN_U32("graphics/pokemon/spearow/front.4bpp.lz");
 const u32 gMonPalette_Spearow[] = INCBIN_U32("graphics/pokemon/spearow/normal.gbapal.lz");

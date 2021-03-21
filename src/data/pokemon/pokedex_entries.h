@@ -240,12 +240,12 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
 
-    [NATIONAL_DEX_RATICATE] =
+    [NATIONAL_DEX_RAZORUS] =
     {
         .categoryName = _("MOUSE"),
         .height = 7,
         .weight = 185,
-        .description = gRaticatePokedexText,
+        .description = gRazorusPokedexText,
         .pokemonScale = 459,
         .pokemonOffset = 18,
         .trainerScale = 256,
