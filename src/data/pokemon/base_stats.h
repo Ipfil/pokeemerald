@@ -518,7 +518,7 @@ const struct BaseStats gBaseStats[] =
         .noFlip = FALSE,
     },
 
-    [SPECIES_PIDGEY] =
+    [SPECIES_DRODODO] =
     {
         .baseHP        = 40,
         .baseAttack    = 45,

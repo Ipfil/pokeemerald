@@ -80,7 +80,7 @@ const struct MonCoords gMonFrontPicCoords[] =
         .size = 0x86,
         .y_offset = 9,
     },
-    [SPECIES_PIDGEY] =
+    [SPECIES_DRODODO] =
     {
         .size = 0x65,
         .y_offset = 13,

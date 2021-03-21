@@ -103,12 +103,12 @@ const u32 gMonShinyPalette_Beedrill[] = INCBIN_U32("graphics/pokemon/beedrill/sh
 const u8 gMonIcon_Beedrill[] = INCBIN_U8("graphics/pokemon/beedrill/icon.4bpp");
 const u8 gMonFootprint_Beedrill[] = INCBIN_U8("graphics/pokemon/beedrill/footprint.1bpp");
 
-const u32 gMonStillFrontPic_Pidgey[] = INCBIN_U32("graphics/pokemon/pidgey/front.4bpp.lz");
-const u32 gMonPalette_Pidgey[] = INCBIN_U32("graphics/pokemon/pidgey/normal.gbapal.lz");
-const u32 gMonBackPic_Pidgey[] = INCBIN_U32("graphics/pokemon/pidgey/back.4bpp.lz");
-const u32 gMonShinyPalette_Pidgey[] = INCBIN_U32("graphics/pokemon/pidgey/shiny.gbapal.lz");
-const u8 gMonIcon_Pidgey[] = INCBIN_U8("graphics/pokemon/pidgey/icon.4bpp");
-const u8 gMonFootprint_Pidgey[] = INCBIN_U8("graphics/pokemon/pidgey/footprint.1bpp");
+const u32 gMonStillFrontPic_Drododo[] = INCBIN_U32("graphics/pokemon/drododo/front.4bpp.lz");
+const u32 gMonPalette_Drododo[] = INCBIN_U32("graphics/pokemon/drododo/normal.gbapal.lz");
+const u32 gMonBackPic_Drododo[] = INCBIN_U32("graphics/pokemon/drododo/back.4bpp.lz");
+const u32 gMonShinyPalette_Drododo[] = INCBIN_U32("graphics/pokemon/drododo/shiny.gbapal.lz");
+const u8 gMonIcon_Drododo[] = INCBIN_U8("graphics/pokemon/drododo/icon.4bpp");
+const u8 gMonFootprint_Drododo[] = INCBIN_U8("graphics/pokemon/drododo/footprint.1bpp");
 
 const u32 gMonStillFrontPic_Pidgeotto[] = INCBIN_U32("graphics/pokemon/pidgeotto/front.4bpp.lz");
 const u32 gMonPalette_Pidgeotto[] = INCBIN_U32("graphics/pokemon/pidgeotto/normal.gbapal.lz");

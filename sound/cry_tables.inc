@@ -15,7 +15,7 @@ gCryTable:: @ 869DCF4
 	cry Cry_Weedle  @ 869DD84
 	cry Cry_Kakuna  @ 869DD90
 	cry Cry_Beedrill  @ 869DD9C
-	cry Cry_Pidgey  @ 869DDA8
+	cry Cry_Drododo  @ 869DDA8
 	cry Cry_Pidgeotto  @ 869DDB4
 	cry Cry_Pidgeot  @ 869DDC0
 	cry Cry_Rattata  @ 869DDCC
@@ -406,7 +406,7 @@ gCryTable2:: @ 869EF24
 	cry2 Cry_Weedle  @ 869EFB4
 	cry2 Cry_Kakuna  @ 869EFC0
 	cry2 Cry_Beedrill  @ 869EFCC
-	cry2 Cry_Pidgey  @ 869EFD8
+	cry2 Cry_Drododo  @ 869EFD8
 	cry2 Cry_Pidgeotto  @ 869EFE4
 	cry2 Cry_Pidgeot  @ 869EFF0
 	cry2 Cry_Rattata  @ 869EFFC

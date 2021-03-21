@@ -94,7 +94,7 @@ const u8 gBeedrillPokedexText[] = _(
     "ever approach its nest. If angered,\n"
     "they will attack in a swarm.");
 
-const u8 gPidgeyPokedexText[] = _(
+const u8 gDrododoPokedexText[] = _(
     "It has an extremely sharp sense of\n"
     "direction. It can unerringly return home to\n"
     "its nest, however far it may be removed\n"

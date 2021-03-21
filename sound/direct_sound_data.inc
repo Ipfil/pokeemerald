@@ -447,8 +447,8 @@ Cry_Beedrill::
 	.incbin "sound/direct_sound_samples/cries/beedrill.bin"
 
 	.align 2
-Cry_Pidgey::
-	.incbin "sound/direct_sound_samples/cries/pidgey.bin"
+Cry_Drododo::
+	.incbin "sound/direct_sound_samples/cries/drododo.bin"
 
 	.align 2
 Cry_Pidgeotto::

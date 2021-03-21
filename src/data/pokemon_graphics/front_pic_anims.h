@@ -155,7 +155,7 @@ static const union AnimCmd sAnim_BEEDRILL_1[] =
     ANIMCMD_END,
 };
 
-static const union AnimCmd sAnim_PIDGEY_1[] =
+static const union AnimCmd sAnim_DRODODO_1[] =
 {
     ANIMCMD_FRAME(1, 5),
     ANIMCMD_FRAME(0, 5),
@@ -4885,9 +4885,9 @@ static const union AnimCmd *const sAnims_BEEDRILL[] ={
     sAnim_BEEDRILL_1,
 };
 
-static const union AnimCmd *const sAnims_PIDGEY[] ={
+static const union AnimCmd *const sAnims_DRODODO[] ={
     sAnim_GeneralFrame0,
-    sAnim_PIDGEY_1,
+    sAnim_DRODODO_1,
 };
 
 static const union AnimCmd *const sAnims_PIDGEOTTO[] ={
@@ -6966,7 +6966,7 @@ const union AnimCmd *const *const gMonFrontAnimsPtrTable[] =
     ANIM_CMD(WEEDLE),
     ANIM_CMD(KAKUNA),
     ANIM_CMD(BEEDRILL),
-    ANIM_CMD(PIDGEY),
+    ANIM_CMD(DRODODO),
     ANIM_CMD(PIDGEOTTO),
     ANIM_CMD(PIDGEOT),
     ANIM_CMD(RATTATA),

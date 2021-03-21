@@ -1206,7 +1206,7 @@ const u16 gEasyChatWordsByLetter_P[] = {
     EC_WORD_PICKUP,
     EC_POKEMON2(PIDGEOT),
     EC_POKEMON2(PIDGEOTTO),
-    EC_POKEMON2(PIDGEY),
+    EC_POKEMON2(DRODODO),
     -1, 2, // Doubled pokemon species name
     EC_POKEMON(PIKACHU),
     EC_POKEMON2(PIKACHU),
@@ -2154,7 +2154,7 @@ const u16 gEasyChatWordsByLetter_UnusedJapaneseHo[] = {
     EC_POKEMON(AGGRON),
     EC_MOVE2(TAIL_GLOW),
     EC_POKEMON(POOCHYENA),
-    EC_POKEMON2(PIDGEY),
+    EC_POKEMON2(DRODODO),
     EC_WORD_AS_MUCH_AS,
     EC_POKEMON2(PONYTA),
     EC_MOVE2(BONE_CLUB),

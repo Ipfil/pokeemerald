@@ -979,7 +979,7 @@ static const union AnimCmd *const sUnknownAnims_BUTTERFREE[] = {sAnim_GeneralFra
 static const union AnimCmd *const sUnknownAnims_WEEDLE[] = {sAnim_GeneralFrame0};
 static const union AnimCmd *const sUnknownAnims_KAKUNA[] = {sAnim_GeneralFrame0};
 static const union AnimCmd *const sUnknownAnims_BEEDRILL[] = {sAnim_GeneralFrame0};
-static const union AnimCmd *const sUnknownAnims_PIDGEY[] = {sAnim_GeneralFrame0};
+static const union AnimCmd *const sUnknownAnims_DRODODO[] = {sAnim_GeneralFrame0};
 static const union AnimCmd *const sUnknownAnims_PIDGEOTTO[] = {sAnim_GeneralFrame0};
 static const union AnimCmd *const sUnknownAnims_PIDGEOT[] = {sAnim_GeneralFrame0};
 static const union AnimCmd *const sUnknownAnims_RATTATA[] = {sAnim_GeneralFrame0};
@@ -1892,7 +1892,7 @@ static const union AnimCmd *const *const sUnknownAnimsTable[] =
     ANIM_CMD(WEEDLE),
     ANIM_CMD(KAKUNA),
     ANIM_CMD(BEEDRILL),
-    ANIM_CMD(PIDGEY),
+    ANIM_CMD(DRODODO),
     ANIM_CMD(PIDGEOTTO),
     ANIM_CMD(PIDGEOT),
     ANIM_CMD(RATTATA),
